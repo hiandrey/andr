@@ -1,0 +1,77 @@
+body{
+
+    background-color: rgb(68, 63, 63);
+}
+ul{
+font-family: sans-serif;
+font-size: 25px;
+list-style: none;
+background-color: hotpink;
+height: 50px;
+width: 50%;
+margin: auto;
+
+
+
+
+}
+a{
+color: #fff;
+text-decoration: none;
+line-height: 50px;
+padding: 0 25px;
+border-right: 2px solid #c91302;
+display: block;
+
+}
+li{
+    float: left;
+
+
+}
+a:hover{
+
+    background-color: rgb(214, 80, 80);
+}
+
+
+img{
+width: 52%;
+
+}
+h1{
+
+    color: white;
+}
+p{
+    width: 52%;
+}
+.tabl
+{
+border: 3px solid white;
+width: 52%;
+background-color: rgb(34, 33, 33);
+margin-bottom: 25px;
+
+}
+.dvig{
+margin-bottom: 25px;
+
+}
+.dvizok{
+    background-color: brown;
+    width: 20%;
+
+
+}
+hr{
+width: 52%;
+
+}
+.swyz{
+    background-color: brown;
+    width: 20%;
+
+
+
+}
